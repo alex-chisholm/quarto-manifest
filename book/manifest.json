@@ -4,7 +4,7 @@
   "platform": "4.3.2",
   "metadata": {
     "appmode": "quarto-static",
-    "primary_rmd": "index.html",
+    "primary_rmd": "index.qmd",
     "primary_html": null,
     "content_category": "site",
     "has_parameters": false
