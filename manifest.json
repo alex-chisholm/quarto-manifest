@@ -890,7 +890,7 @@
   },
   "files": {
     "book/_quarto.yml": {
-      "checksum": "4aacf106bb5d64c123f12c3f0575daf9"
+      "checksum": "75ab745bbb80dc19f5430ad8e9d2ae01"
     },
     "book/cover.png": {
       "checksum": "308012df3fa962ae61c7114806331a72"
@@ -911,7 +911,7 @@
       "checksum": "829ba29585a45c9b9bf12f6097617c92"
     },
     "README.md": {
-      "checksum": "dad7e0555f357a6d697787f88e29240d"
+      "checksum": "b10414f937d4174c124dd92319c9a04d"
     },
     "report.qmd": {
       "checksum": "1cd01445e9280ea9c239fa84ba809e6c"

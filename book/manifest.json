@@ -4,7 +4,7 @@
   "platform": "4.3.2",
   "metadata": {
     "appmode": "quarto-static",
-    "primary_rmd": "index.qmd",
+    "primary_rmd": "index.html",
     "primary_html": null,
     "content_category": "site",
     "has_parameters": false
@@ -16,7 +16,7 @@
   "packages": null,
   "files": {
     "_quarto.yml": {
-      "checksum": "4aacf106bb5d64c123f12c3f0575daf9"
+      "checksum": "75ab745bbb80dc19f5430ad8e9d2ae01"
     },
     "cover.png": {
       "checksum": "308012df3fa962ae61c7114806331a72"
