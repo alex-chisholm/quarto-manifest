@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.3.2",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "index.html",
+    "primary_html": null,
+    "content_category": "site",
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.4.549",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "_quarto.yml": {
+      "checksum": "4aacf106bb5d64c123f12c3f0575daf9"
+    },
+    "cover.png": {
+      "checksum": "308012df3fa962ae61c7114806331a72"
+    },
+    "index.qmd": {
+      "checksum": "47bf3399ab53bf61ea4e8f3ed378f14a"
+    },
+    "intro.qmd": {
+      "checksum": "d6b3497887bf84070765116c0d2ef206"
+    },
+    "references.bib": {
+      "checksum": "82c1cc91cf544d383b6a5ad1b65a6feb"
+    },
+    "references.qmd": {
+      "checksum": "20d3273ad995f344fa1d144ca5d3ecf1"
+    },
+    "summary.qmd": {
+      "checksum": "829ba29585a45c9b9bf12f6097617c92"
+    }
+  },
+  "users": null
+}
